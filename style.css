@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#mode-toggle {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    margin:auto;
+
+}
+
+#content {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
